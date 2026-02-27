@@ -30,6 +30,7 @@ body {
 
 .nav-logo img {
     height: 55px;
+    border-radius: 30%;
 }
 
 .nav-links a {
@@ -342,3 +343,5 @@ footer {
     .whatsapp-float { width: 60px; height: 60px; right: 20px; }
     .target-audience span { padding: 10px 20px; font-size: 1.1rem; }
 }
+
+
