@@ -295,7 +295,7 @@ footer {
 .floating-tech {
     position: fixed;
     bottom: 80px;
-    right: 80px;
+    right: 20px;
     width: 160px;
     z-index: 999;
     filter: drop-shadow(0 15px 25px rgba(0, 0, 0, 0.7));
@@ -330,7 +330,7 @@ footer {
     box-shadow: 0 15px 40px rgba(37, 211, 102, 0.7);
 }
 
-.whatsapp-float svg {
+.whatsapp-float img {
     width: 42px;
     height: 42px;
 }
