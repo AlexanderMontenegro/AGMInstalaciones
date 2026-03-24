@@ -339,7 +339,7 @@ footer {
 @media (max-width: 768px) {
     .hero h1 { font-size: 3rem; }
     .hero h2 { font-size: 1.8rem; }
-    .floating-tech { width: 120px; right: 30px; bottom: 60px; }
+    .floating-tech { width: 120px; right: 10px; bottom: 60px; }
     .whatsapp-float { width: 60px; height: 60px; right: 20px; }
     .target-audience span { padding: 10px 20px; font-size: 1.1rem; }
 }
